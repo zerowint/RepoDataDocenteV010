@@ -1,0 +1,84 @@
+{
+  "asignatura": [
+    {
+      "id": 265655,
+      "usuarioId": 1,
+      "profesor": "viviana sol",
+      "clase": "Calidad Sowfare",
+      "seccion": "epa",
+      "nombre_usuario": "usuario6",
+      "mensaje": "Motivo del justificativo",
+      "inscripcionesId": 1732572030220,
+      "claseId": "1"
+    }
+  ],
+  "usuarios": [
+    {
+      "id": "1",
+      "username": "usuario6",
+      "email": "usuario15@mail.cl",
+      "password": "11defebrero",
+      "isactive": true,
+      "rut": "12345678-9"
+    },
+    {
+      "id": "2",
+      "username": "usuario21",
+      "email": "usuario2@mail.cl",
+      "password": "maipu1234",
+      "isactive": true,
+      "rut": "87654321-0"
+    }
+  ],
+  "inscripciones": [
+    {
+      "id": "1",
+      "profesor_clase": "viviana sol",
+      "descripcion": "Dar calidad a los requerimientos",
+      "nombre_materia": "Calidad Sowfare",
+      "fecha": "2024-10-20"
+    },
+    {
+      "id": "2",
+      "profesor_clase": "Gorge Juzman",
+      "descripcion": "Programacion de algoritmos",
+      "nombre_materia": "Programacion",
+      "fecha": "2024-10-21"
+    },
+    {
+      "id": "3",
+      "profesor_clase": "Alan Cruz",
+      "descripcion": "Tipos de lenguas",
+      "nombre_materia": "Ingles Intermedio",
+      "fecha": "2024-10-21"
+    }
+  ],
+  "clases_inscritas": [
+    {
+      "id": 1732572030220,
+      "usuarioId": 1,
+      "claseId": "1",
+      "fecha_inscripcion": "25/11/2024",
+      "nombre_materia_inscrita": "Calidad Sowfare",
+      "nombre_estudiante": "usuario6",
+      "profesor_clase": "viviana sol"
+    }
+  ],
+  "usuarios_docentes": [
+    {
+      "id": "3",
+      "username": "docente1",
+      "email": "docente1@mail.cl",
+      "password": "duoc1234",
+      "isactive": true,
+      "rut": "12345678-1"
+    }
+  ],
+  "asistencias": [
+
+    
+  ],
+  "qr": [
+
+  ]
+}
